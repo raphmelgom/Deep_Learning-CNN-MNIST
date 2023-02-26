@@ -1,4 +1,4 @@
-#Deep Learning_CNN-Dataset MNIST
+# Deep Learning_CNN-Dataset MNIST
 
 O conjunto de dados MNIST é um dos conjuntos de dados mais populares para a tarefa de reconhecimento de dígitos manuscritos. Ele contém um total de 70.000 imagens em preto e branco de dígitos manuscritos, divididos em um conjunto de treinamento de 60.000 exemplos e um conjunto de teste de 10.000 exemplos. Cada imagem tem tamanho 28x28 pixels e representa um dígito de 0 a 9. O conjunto de dados é frequentemente usado como benchmark para testar a precisão de algoritmos de classificação de imagens.
 
